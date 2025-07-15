@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="AutoGen.OpenAI" Version="0.0.10" />
+    <PackageReference Include="AutoGen.OpenAI" Version="0.2.3" />
   </ItemGroup>
 
 </Project>
