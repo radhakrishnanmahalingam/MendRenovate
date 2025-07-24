@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MendRenovateProjects/.vs/MendRenovateProjects
+/MendRenovateProjects/ConsolProjects/bin/Debug
+/MendRenovateProjects/MendRenovateProjects/bin/Debug/net8.0-windows
+/MendRenovateProjects/MendRenovateProjects/obj/Debug/net8.0-windows
+/MendRenovateProjects/packages
+/MendRenovateProjects/WebApplication1/obj/Debug
+/MendRenovateProjects/WebApplication1/bin
+/MendRenovateProjects/MendRenovateProjects/obj
+/MendRenovateProjects/ConsolProjects/obj/Debug
+/MendRenovateProjects/.vs
+/MendRenovateProjects/MendRenovateSummary
